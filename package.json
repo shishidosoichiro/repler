@@ -1,0 +1,23 @@
+{
+  "name": "repler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "REPL"
+  ],
+  "author": "shishidosoichiro",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "gulp": "^3.8.8",
+    "gulp-mocha": "^1.1.1",
+    "mocha": "^1.21.5"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
